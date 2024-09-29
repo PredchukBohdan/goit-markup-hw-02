@@ -93,6 +93,7 @@ a,
 .header .header-address-phone {
   font-weight: 400;
   color: #434455;
+  font-style: normal;
 }
 
 .header .header-address-mail:hover,
