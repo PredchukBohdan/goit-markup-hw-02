@@ -1,0 +1,151 @@
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  color: #434455;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  background-color: #ffffff;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+}
+h2 {
+  font-weight: 700;
+  font-size: 36px;
+  color: #2e2f42;
+  line-height: 1.1;
+  text-align: center;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 20px;
+  color: #2e2f42;
+  line-height: 1.2;
+}
+
+ul,
+ol {
+  list-style-type: none;
+}
+
+a,
+.link {
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+.link:hover,
+.link:active {
+  color: #404bbf;
+}
+
+.button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #404bbf;
+}
+
+/* Header styles */
+
+.header {
+  background-color: #ffffff;
+}
+
+.header-logo,
+.footer-logo {
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #2e2f42;
+}
+
+.header .header-logo span {
+  color: #4d5ae5;
+}
+
+.header .header-nav-link {
+  font-weight: 500;
+  color: #2e2f42;
+}
+
+.header .header-nav-link:hover,
+.header .header-nav-link:active {
+  color: #404bbf;
+}
+
+.header .header-address-mail,
+.header .header-address-phone {
+  font-weight: 400;
+  color: #434455;
+}
+
+.header .header-address-mail:hover,
+.header .header-address-phone:hover {
+  color: #404bbf;
+}
+
+/* Hero banner section */
+
+.hero-banner {
+  background-color: #2e2f42;
+}
+
+.hero-banner-title {
+  color: #ffffff;
+}
+
+/* Info section */
+
+.info {
+  background-color: #ffffff;
+}
+
+/* Our team section */
+
+.our-team {
+  background-color: #f4f4fd;
+}
+
+.our-team .our-team-item {
+  text-align: center;
+}
+
+/* Portfolio section */
+
+.portfolio {
+  background-color: #ffffff;
+}
+
+/* Footer */
+
+.footer {
+  background-color: #2e2f42;
+}
+
+.footer .footer-logo {
+  color: #f4f4fd;
+}
+
+.footer .footer-logo span {
+  color: #4d5ae5;
+}
+
+.footer .footer-text {
+  color: #f4f4fd;
+}
