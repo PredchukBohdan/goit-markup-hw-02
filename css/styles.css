@@ -128,7 +128,8 @@ a,
   background-color: #ffffff;
 }
 
-.info-title {
+.info-title,
+.info-item-title {
   letter-spacing: 0.02em;
 }
 
